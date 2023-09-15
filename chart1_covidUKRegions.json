@@ -14,7 +14,7 @@
     "color": "black"},
 
   "height": 300,
-  "width": 280,
+  "width": 345,
   
   "mark": {"type": "bar", "width":10},
   
