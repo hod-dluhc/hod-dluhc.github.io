@@ -27,7 +27,7 @@ color: white;
 .textLink:hover { color: #f6d173; } /* CSS link hover (pale yellow) */
 
 .chart{
-    width: 330px;
+    width: 400px;
     border-width: 3px;
     background-color: white;
     border-style: solid;
